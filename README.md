@@ -15,6 +15,7 @@
 [![Sofa01](Previews/Sofa01.png)](Models/Sofa01/)
 [![Cabinet01](Previews/Cabinet01.png)](Models/Cabinet01/)
 [![Helmet01](Previews/Helmet01.png)](Models/Helmet01/)
+[![Helmet02](Previews/Helmet02.png)](Models/Helmet02/)
 
 ## Technologie
 Modele stworzono w aplikacji Blender 4.5.
